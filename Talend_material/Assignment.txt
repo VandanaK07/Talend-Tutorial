@@ -1,0 +1,26 @@
+Assignment
+
+1.	Create a job to execute multiple SQL statements with one component in Talend.
+2.	Create a job to pass value MySQL Database Connection Parameters from outside in Talend.
+3.	Create a job to pass a Error_Flag and Error_Msg from parent job to child job in Talend and vice versa.
+4.	Create a job to resume job execution from same location if job get failed in Talend.
+5.	Create a job to Merge multiple files into single file with sorting operation.
+6.	Create a job to perform full outer join in Talend. (use Employee and Employee_history table).
+7.	Split name column into firstname and lastname using the separator ‘,’. 
+                Name;number
+                John,Evans;100
+                Mary,Wilson;101
+                Jenifer,Winget;102
+8.	Create a job which will add sequence in the above data.
+9.	Create a metadata for Delimited file contains 5 columns (EMP_ID,EMP_FNAME,EMP_LNAME,EMP_SAL,dept_ID) having dept_id as 10,20,30,40,null. 
+	Create a job to remove records containing departments 20 and blank. 
+10.	Create Department table DeptID, DeptName, EMP_ID. Create a job which output the rejected data of two tables.( use Employee and DEPARTMENT table).
+		EMPLOYEE: EMP_ID,EMP_FNAME,EMP_LNAME,EMP_SAL,dept_ID, email_id, sys_date
+		Department: DeptID, EMP_DEPT,EMP_ID
+		Add Emild_id column in the Employee table and Find out the firstname from email_id.
+11.	From the above table extract the system date in the mentioned format (“dd/MM/YYYY”).
+12.	Filter out the employees who have SAL less than 10000. 
+		Note :  Don’t  use Query for this. Please do it in Talend.
+13.	Create a single job to store the output from the above Employee table in Database table as well as in XML .
+		Add duplicate records in the input and try to Filter out the duplicate rows using Talend component.
+		And the duplicate records in a Delimited File.

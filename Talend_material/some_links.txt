@@ -1,0 +1,13 @@
+Talend Tutorial For Beginners :- https://www.youtube.com/watch?v=ewjPt-fhdMs
+Talend Components :- https://www.youtube.com/watch?v=5f0i6xKd00o
+Talend ETL: Context Variables, Zipping, Deleting and FTPing :- https://www.youtube.com/watch?v=6ClK0gRgVek
+How to use an If statement in Talend :- https://www.youtube.com/watch?v=OD-ZBKYnjH8
+Pass parameters and variables to child jobs in Talend :- https://www.youtube.com/watch?v=D6BrfnFKSLQ
+Talend : Error Handling :- https://www.youtube.com/watch?v=jUNYwv-BiTg
+Talend Administration Center (TAC) :- https://www.youtube.com/watch?v=KljdggzHKQU
+Talend ETL MySQL to Amazon AWS RDS MySQL :- https://www.youtube.com/watch?v=3ju9Jxb3JXA
+Improve load performance with Bulk Load in Talend :- https://www.youtube.com/watch?v=9o5ki1ERujc
+Implement SCD Type 1 (Slowly Changing Dimension) :- https://www.youtube.com/watch?v=_K5eqKBtLow
+Implement SCD Type 2 (Slowly Changing Dimensions) :- https://www.youtube.com/watch?v=r_5pruQaL0Y
+Implement SCD Type 3 (Slowly Changing Dimension) :- https://www.youtube.com/watch?v=Vp0VVYiqC2Y
+Pass flow data from Child to Parent Job in Talend :- https://www.youtube.com/watch?v=msk3HedymMI
